@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpk:home|Door43 (mpk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpk|d43-mpk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpk/archive/master.zip|d43-mpk.zip]]
+
+**Recent Changes**
+{{changes>ns = mpk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpk|Ethnologue data]]
+
